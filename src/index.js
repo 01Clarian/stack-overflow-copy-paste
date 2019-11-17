@@ -64,6 +64,7 @@ import removeElementFromArray from './removeElementFromArray'
 import removeProperty from './removeProperty'
 import reverse from './reverse'
 import reverseArrayInPlace from './reverseArrayInPlace'
+import revInt from './revInt'
 import revstring from './revstring'
 import rollDice from './rollDice'
 import round from './round'
@@ -102,6 +103,7 @@ export {
   isEven,
   revstring,
   initArray,
+  revInt,
   reduce,
   find,
   flatten,
